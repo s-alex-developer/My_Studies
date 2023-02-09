@@ -64,12 +64,12 @@ print('Hello World!)
 ``
 
 ```javascript
-import {useState} form `react`;
+import {useState} form react;
 ```
 
 ```css
 .header {
-    margin: 1rem;
+    margin: rem;
 }
 ```
 
