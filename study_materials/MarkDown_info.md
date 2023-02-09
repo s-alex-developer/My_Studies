@@ -116,4 +116,4 @@ ___
 
 ## Кликаем по картинке и смотрим видео:
 
-[![](https://i.ytimg.com/vi/jPKi2Addbxw/hq720.jpg)](https://www.youtube.com/watch?v=jPKi2Addbxw&t=1154s)
+[![](https://i.ytimg.com/vi/jPKi2Addbxw/hq720.jpg)](https://www.youtube.com/watch?v=jPKi2Addbxw&t=1s)
