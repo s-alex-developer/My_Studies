@@ -4,7 +4,7 @@
 
 ### *Содержание:*
 ***
-> * `[План обучения.](/general_information/Study_programs.md) `
+> * [План обучения.](/general_information/Study_programs.md) 
 ***
 > * [Дневник обучения.](/general_information/diary.md)
 ***
