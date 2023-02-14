@@ -10,7 +10,7 @@
 _Продолжительность 12 месяцев._
 
 ---
-`24.11.2022 - 31.11.2022` 
+`24.11.2022 - 31.12.2022` 
 - Прошел курс **"Программирование на Python 3"** от [shultais.education](https://shultais.education/lms/courses/python-3).
 
 ![](/images/shultais_education/Программирование_на_Python_3.jpeg)
