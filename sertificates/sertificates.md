@@ -6,7 +6,7 @@
 
 ## [Нетология](https://netology.ru/) "Основы языка программирования Python".
 
-![](/sertificates/img/Нетология_Основы_Python.pdf)
+![](/sertificates/img/Нетология_Основы_Python.jpg)
 
 ---
 
