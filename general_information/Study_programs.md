@@ -2,7 +2,7 @@
 
 ## Python.
 
-### [shultais.education](https://shultais.education/lms/courses/sql-basics)
+### [shultais.education](https://shultais.education)
 
 * [x] Программирование на Python 3
 * [ ] Дата и время в Python 3
@@ -20,7 +20,7 @@
 
 ## Git и GitHub.
 
-### [shultais.education](https://shultais.education/lms/courses/sql-basics)
+### [shultais.education](https://shultais.education)
 * [ ] Основы Git и Github
 
 ### [Нетология](https://netology.ru/) курс "Python-разработчик с нуля"
@@ -28,7 +28,7 @@
 
 ## БД на основе SQL.
 
-### [shultais.education](https://shultais.education/lms/courses/sql-basics)
+### [shultais.education](https://shultais.education)
 * [x] Основы SQL
 * [ ] Продвинутый SQL
 
@@ -37,7 +37,7 @@
 
 ## HTML, CSS, Django.
 
-### [shultais.education](https://shultais.education/lms/courses/sql-basics)
+### [shultais.education](https://shultais.education)
 * [ ] Введение в HTML5 и CSS3
 * [ ] Введение в Django 3
 
