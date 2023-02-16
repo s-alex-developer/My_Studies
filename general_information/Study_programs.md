@@ -1,7 +1,7 @@
-## Текущий план обучения.
+# Текущий план обучения.
 
 ## Python.
-***
+
 ### [shultais.education](https://shultais.education/lms/courses/sql-basics)
 
 * [x] Программирование на Python 3
@@ -19,7 +19,7 @@
 * [ ] Дипломный блок профессии Python-разработчик
 
 ## Git и GitHub.
-***
+
 ### [shultais.education](https://shultais.education/lms/courses/sql-basics)
 * [ ] Основы Git и Github
 
@@ -27,7 +27,7 @@
 * [x] Git — система контроля версий
 
 ## БД на основе SQL.
-***
+
 ### [shultais.education](https://shultais.education/lms/courses/sql-basics)
 * [x] Основы SQL
 * [ ] Продвинутый SQL
@@ -36,7 +36,7 @@
 * [ ] База данных PostgreSQL для python-разработчиков
 
 ## HTML, CSS, Django.
-***
+
 ### [shultais.education](https://shultais.education/lms/courses/sql-basics)
 * [ ] Введение в HTML5 и CSS3
 * [ ] Введение в Django 3
