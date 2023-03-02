@@ -8,7 +8,7 @@
 ***
 * *[Дневник обучения.](/general_information/diary.md)*
 ***
-* *[Полученные сертивикаты.](/sertificates/sertificates.md)*
+* *[Полученные сертификаты.](/sertificates/sertificates.md)*
 ***
 * *[Полезные статьи.](/articles/articles_references.md)*
 ***
