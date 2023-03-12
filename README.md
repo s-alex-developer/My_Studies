@@ -16,6 +16,6 @@
 ***
 * *[Интересные видео.](/video/video.md)*
 ***
-* *[Глоссарий разработчика]()*
+* *[Глоссарий разработчика](/study_materials/glossarium_for_developers.md)*
 ***
 ![](/images/img/MainREADME.jpeg)
