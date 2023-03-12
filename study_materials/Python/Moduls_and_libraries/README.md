@@ -1,5 +1,5 @@
 ### *Вся информация связанная с `библиотеками` и `модулями` Python будет храниться в этой папке.*
 
-<<<<<<< HEAD
-### *Файл [moduls and libraries.md](/study_materials/Python/Moduls_and_libraries/moduls and libraries.md) содержит список изученных библиотек или отдельных модулей и ссылки на статьи, описывающие функционал каждого модуля в отдельности.*
+
+*Файл [moduls and libraries.md](/study_materials/Python/Moduls_and_libraries/moduls and libraries.md) содержит список изученных библиотек или отдельных модулей и ссылки на статьи, описывающие функционал каждого модуля в отдельности.*
 
