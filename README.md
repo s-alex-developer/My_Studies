@@ -10,8 +10,12 @@
 ***
 * *[Полученные сертификаты.](/sertificates/sertificates.md)*
 ***
+* *[Учебные материалы](/study_materials)*
+***
 * *[Полезные статьи.](/articles/articles_references.md)*
 ***
 * *[Интересные видео.](/video/video.md)*
+***
+* *[Глоссарий разработчика]()*
 ***
 ![](/images/img/MainREADME.jpeg)
