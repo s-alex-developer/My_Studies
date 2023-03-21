@@ -1,5 +1,4 @@
-*В процессе наполнения.*
-# Python (мои конспекты)
+# Все о Python (мои конспекты)
 ## Основы:
 ### - `List comprehension`- основные моменты с примерами.  ( [MarkDown](/study_materials/Python/List_comprehension.md) , [JupyterNotebook](/study_materials/Python/List_comprehension.ipynb) )
 
