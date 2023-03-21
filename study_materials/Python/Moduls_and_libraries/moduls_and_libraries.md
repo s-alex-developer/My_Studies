@@ -1,3 +1,4 @@
+[<<< Назад](https://github.com/s-alex-developer/My_Studies/blob/main/study_materials/Python/Python_study_materials.md)
 # Бибилиотеки и модули Python.
 
 ## Встроенные (интегрированные в Python):
