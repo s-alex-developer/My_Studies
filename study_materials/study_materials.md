@@ -2,7 +2,7 @@
 
 ## В процессе наполнения:
 
-### [- Изучаем Python и библиотеки](study_materials/Python/FPython_study_materials.md)
+### [- Изучаем Python и библиотеки](/study_materials/Python/Python_study_materials.md)
 ### [- Работа с разными форматами данных]()
 
 ## В ближайшее время:

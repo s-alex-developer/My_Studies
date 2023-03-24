@@ -10,7 +10,7 @@
 ***
 * *[Полученные сертификаты.](/sertificates/sertificates.md)*
 ***
-* *[Учебные материалы](/study_materials)*
+* *[Учебные материалы](/study_materials/study_materials.md))*
 ***
 * *[Полезные статьи.](/articles/articles_references.md)*
 ***
