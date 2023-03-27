@@ -17,4 +17,4 @@
 ***
 ### [7. Глоссарий разработчика](/study_materials/glossarium_for_developers.md)
 ***
-![](/images/img/MainREADME.jpeg).
+![](/images/img/MainREADME.jpeg)
