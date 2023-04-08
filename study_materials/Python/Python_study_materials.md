@@ -16,7 +16,7 @@
 
 ### - `Функция zip` - основные моменты с примерами.  ( [MarkDown](/study_materials/Python/zip.md) , [JupyterNotebook](/study_materials/Python/zip.ipynb) )
 
-### - `Генераторы`- основные моменты с примерами.  ( [MarkDown](/study_materials/Python/List_comprehension.md) , [JupyterNotebook](/study_materials/Python/List_comprehension.ipynb) )
+### - `Генераторы`- основные моменты с примерами.  ( [MarkDown](/study_materials/Python/generators_list_dict_tuple.md) , [JupyterNotebook](/study_materials/Python/generators_list_dict_tuple.ipynb) )
 
 ### - `Декораторы`- основные моменты с примерами.  ( [MarkDown](/study_materials/Python/decorators_wraps.md) , [JupyterNotebook](/study_materials/Python/decorators_wraps.ipynb) )
 
