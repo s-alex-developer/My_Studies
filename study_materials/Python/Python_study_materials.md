@@ -2,11 +2,27 @@
 
 # Все о Python (мои конспекты)
 ## Основы:
-### - `List comprehension`- основные моменты с примерами.  ( [MarkDown](/study_materials/Python/List_comprehension.md) , [JupyterNotebook](/study_materials/Python/List_comprehension.ipynb) )
 
 ***
 ## Функциональное программирование:
+
+### - `Функция filter` - основные моменты с примерами.  ( [MarkDown](/study_materials/Python/filter.md) , [JupyterNotebook](/study_materials/Python/filter.ipynb) )
+
+### - `Функция map` - основные моменты с примерами.  ( [MarkDown](/study_materials/Python/map.md) , [JupyterNotebook](/study_materials/Python/map.ipynb) )
+
+### - `Функция reduce` - основные моменты с примерами.  ( [MarkDown](/study_materials/Python/reduce.md) , [JupyterNotebook](/study_materials/Python/reduce.ipynb) )
+
 ### - `lambda функции` - основные моменты с примерами.  ( [MarkDown](/study_materials/Python/lambda.md) , [JupyterNotebook](/study_materials/Python/lambda.ipynb) )
+
+### - `Функция zip` - основные моменты с примерами.  ( [MarkDown](/study_materials/Python/zip.md) , [JupyterNotebook](/study_materials/Python/zip.ipynb) )
+
+### - `Генераторы`- основные моменты с примерами.  ( [MarkDown](/study_materials/Python/List_comprehension.md) , [JupyterNotebook](/study_materials/Python/List_comprehension.ipynb) )
+
+### - `Декораторы`- основные моменты с примерами.  ( [MarkDown](/study_materials/Python/decorators_wraps.md) , [JupyterNotebook](/study_materials/Python/decorators_wraps.ipynb) )
+
+### - `Функторы`- основные моменты с примерами.  ( [MarkDown](/study_materials/Python/functors.md) , [JupyterNotebook](/study_materials/Python/functors.ipynb) )
+
+### - `Итераторы`- основные моменты с примерами.  ( [MarkDown](/study_materials/Python/iterators.md) , [JupyterNotebook](/study_materials/Python/iterators.ipynb) )
 
 ***
 ## ООП:
