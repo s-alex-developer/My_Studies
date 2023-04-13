@@ -4,7 +4,7 @@
 
 ### [- Изучаем Python и библиотеки](/study_materials/Python/Python_study_materials.md)
 ### [- Работа с разными форматами данных]()
-### [- Базы данных на основе SQL]()
+### [- Базы данных на основе SQL](/study_materials/DataBase/DataBase_info.md)
 
 ## В ближайшее время:
 
