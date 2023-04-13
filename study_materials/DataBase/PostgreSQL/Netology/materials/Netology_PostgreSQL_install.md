@@ -4,7 +4,7 @@ _Последние изменения внесены: 13.04.2023_
 
 [Ссылка на PostgreSQL для установки.](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
-[Видеоинструкция по установки на Windows](/study_materials/DataBase/PostgreSQL/Netology/video/Install_PostgreSQL_Win.mp4)
+[Видеоинструкция по установки на Windows (скачать)](/study_materials/DataBase/PostgreSQL/Netology/video/Install_PostgreSQL_Win.mp4)
 
 * В процессе установки возникла следующая ошибка:
 
