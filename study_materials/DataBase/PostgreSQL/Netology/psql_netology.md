@@ -6,5 +6,5 @@
 
 ### 2. Инструкции по установке PostgreSQL ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/Netology_PostgreSQL_install.md) )
 
-
+***
 [<<< Предыдущее меню.](..%2F..%2FDataBase_info.md)

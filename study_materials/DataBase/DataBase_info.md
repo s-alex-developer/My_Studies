@@ -8,5 +8,5 @@
 ## MySQL (в будущем)
 ### [- курс "Shultais Education"](/images/img/minions_at_works.jpg)
 
-
+***
 [<<< Предыдущее меню.](..%2Fstudy_materials.md)
