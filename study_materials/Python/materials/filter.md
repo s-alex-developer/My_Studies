@@ -1,6 +1,6 @@
 *Последние изменения внесены: `25.03.2023`*
 
-[<<< Предыдущее меню.](..%2Python_study_materials.md)
+[<<< Предыдущее меню.](/study_materials/Python/Python_study_materials.md)
 
 # Функция  `filter` (сортировка)
 
