@@ -31,4 +31,6 @@
 ## 4. Бибилиотеки и модули для Python.
 
 ### `Список библиотек` [Нажать >>>](/study_materials/Python/Moduls_and_libraries/moduls_and_libraries.md)
+
 ***
+[<<< Предыдущее меню.](..%2Fstudy_materials.md)
