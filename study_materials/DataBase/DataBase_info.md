@@ -5,4 +5,4 @@
 
 
 ## MySQL (в будущем)
-### [- курс "Shultais Education"]()
+### [- курс "Shultais Education"](/images/img/minions_at_works.jpg)

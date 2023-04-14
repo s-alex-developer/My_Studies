@@ -11,10 +11,10 @@
 ***
 ### [4. Учебные материалы](/study_materials/study_materials.md)
 ***
-### [5. Полезные статьи.](/articles/articles_references.md)
+### [5. Полезные статьи.](/images/img/minions_at_works.jpg)
 ***
-### [6. Интересные видео.](/video/video.md)
+### [6. Интересные видео.](/images/img/minions_at_works.jpg)
 ***
-### [7. Глоссарий разработчика](/study_materials/glossarium_for_developers.md)
+### [7. Глоссарий разработчика](/images/img/minions_at_works.jpg)
 ***
 ![](/images/img/MainREADME.jpeg)
