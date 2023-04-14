@@ -24,7 +24,7 @@
 ### - `Итераторы`- основные моменты с примерами.  ( [MarkDown](/study_materials/Python/materials/iterators.md) , [JupyterNotebook](/study_materials/Python/materials/iterators.ipynb) )
 
 
-## 3. ООП:
+## 3. ООП.
 ### - `"Основы ООП"` конспект по курсу обучение в "Нетологии" ( [Лекция 1](/study_materials/Python/Netology/(OOP)_and_API/OOP_Lesson_1_my_precis.ipynb) , [Лекция 2](/study_materials/Python/Netology/(OOP)_and_API/OOP_Lesson_2_my_precis.ipynb) )
 
 
