@@ -1,5 +1,5 @@
 [<<< Предыдущее меню.](https://github.com/s-alex-developer/My_Studies)
-***
+
 # Разделы для изучения:
 
 ### [- Изучаем Python и библиотеки (в процессе наполнения)](/study_materials/Python/Python_study_materials.md)
@@ -14,5 +14,5 @@
 ### [- Основы информатики, вычислительной техники и сетевых технологий](/images/img/minions_at_works.jpg)
 ### [- Настройки Windows и основы работа с командной строкой](/images/img/minions_at_works.jpg) 
 
-***
+
 [<<< Предыдущее меню.](https://github.com/s-alex-developer/My_Studies)
