@@ -1,10 +1,9 @@
 [<<< Предыдущее меню.](..%2Fstudy_materials.md)
 
 # Все о Python (мои конспекты)
-## Основы:
+## 1. Основы.
 
-***
-## Функциональное программирование:
+## 2. Функциональное программирование.
 
 ### - `Функция filter` - основные моменты с примерами.  ( [MarkDown](/study_materials/Python/filter.md) , [JupyterNotebook](/study_materials/Python/filter.ipynb) )
 
@@ -24,11 +23,12 @@
 
 ### - `Итераторы`- основные моменты с примерами.  ( [MarkDown](/study_materials/Python/iterators.md) , [JupyterNotebook](/study_materials/Python/iterators.ipynb) )
 
-***
-## ООП:
+
+## 3. ООП:
 ### - `"Основы ООП"` конспект по курсу обучение в "Нетологии" ( [Лекция 1](/study_materials/Python/Netology/(OOP)_and_API/OOP_Lesson_1_my_precis.ipynb) , [Лекция 2](/study_materials/Python/Netology/(OOP)_and_API/OOP_Lesson_2_my_precis.ipynb) )
 
-***
-## Бибилиотеки и модули для Python:
-[Список материалов для изучения >>>](/study_materials/Python/Moduls_and_libraries/moduls_and_libraries.md)
+
+## Бибилиотеки и модули для Python.
+
+### Список библиотек: [Нажать >>>](/study_materials/Python/Moduls_and_libraries/moduls_and_libraries.md)
 ***
