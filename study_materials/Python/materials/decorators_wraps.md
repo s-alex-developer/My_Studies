@@ -1,6 +1,6 @@
 *Последние изменения внесены: `04.04.2023`*
 
-[<<< Предыдущее меню.]()
+[<<< Предыдущее меню.](/study_materials/Python/Python_study_materials.md)
 
 # Декораторы и декоратор `wraps`.
 
@@ -325,6 +325,8 @@ if __name__ == '__main__':
         Функция привествует пользователя по имени!)
         
     
+
+[<<< Предыдущее меню.](/study_materials/Python/Python_study_materials.md)
 
 
 ```python

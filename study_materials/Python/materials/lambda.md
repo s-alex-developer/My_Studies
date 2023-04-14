@@ -1,5 +1,7 @@
 _Последние изменения внесены: 21.03.2023_
 
+[<<< Предыдущее меню.](/study_materials/Python/Python_study_materials.md)
+
 # `Lambda` функция Python. ("lambda выражение", "анонимная функция")
 
 * Ключевое слово `lambda` определяет функцию без имени или **"анонимную функцию".**
@@ -128,6 +130,8 @@ print(result(10))
     
 
 ### 4. Сортировка по ключам словаря:
+
+[<<< Предыдущее меню.](/study_materials/Python/Python_study_materials.md)
 
 
 ```python

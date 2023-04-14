@@ -1,6 +1,6 @@
 *Последние изменения внесены: `26.03.2023`*
 
-[<<< Предыдущее меню.]()
+[<<< Предыдущее меню.](/study_materials/Python/Python_study_materials.md)
 
 # List comprehension (генерация списков)
 
@@ -265,6 +265,8 @@ print(silver)
     ['София', 'Милана']
     ['Светлана', 'Фёдор']
     
+
+[<<< Предыдущее меню.](/study_materials/Python/Python_study_materials.md)
 
 
 ```python

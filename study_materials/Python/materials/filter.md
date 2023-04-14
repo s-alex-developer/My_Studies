@@ -176,6 +176,8 @@ print(list(sorted_people))
     [{'sex': 'm', 'age': 20}, {'sex': 'm', 'age': 27}]
     
 
+[<<< Предыдущее меню.](/study_materials/Python/Python_study_materials.md)
+
 
 ```python
 

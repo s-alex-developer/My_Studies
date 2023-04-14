@@ -1,6 +1,6 @@
 *Последние изменения внесены: `25.03.2023`*
 
-[<<< Предыдущее меню.]()
+[<<< Предыдущее меню.](/study_materials/Python/Python_study_materials.md)
 
 # Функция `map` (преобразование данных).
 
@@ -153,10 +153,7 @@ print(list(right_digits))
     [12.0, 145.0, 45.0, 12.4, 45.14, 15645.0]
     
 
-
-```python
-
-```
+[<<< Предыдущее меню.](/study_materials/Python/Python_study_materials.md)
 
 
 ```python

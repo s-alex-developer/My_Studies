@@ -1,6 +1,6 @@
 *Последние изменения внесены: `04.04.2023`*
 
-[<<< Предыдущее меню.]()
+[<<< Предыдущее меню.](/study_materials/Python/Python_study_materials.md)
 
 # Итераторы и Итерируемые объекты.
 
@@ -164,3 +164,10 @@ if __name__ == '__main__':
     21
     34
     
+
+[<<< Предыдущее меню.](/study_materials/Python/Python_study_materials.md)
+
+
+```python
+
+```
