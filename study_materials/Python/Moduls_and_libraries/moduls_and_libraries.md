@@ -2,8 +2,8 @@
 # Бибилиотеки и модули Python.
 
 ## Встроенные (интегрированные в Python):
-### - Модуль `collections`: [MarkDown](/study_materials/Python/Moduls_and_libraries/collections.md) , [JupyterNotebook](/study_materials/Python/Moduls_and_libraries/collections.ipynb)
+### - Модуль `collections`: [MarkDown](/study_materials/Python/Moduls_and_libraries/materials/collections.md) , [JupyterNotebook](/study_materials/Python/Moduls_and_libraries/materials/collections.ipynb)
 ***
 ## Внешние (требующие установки):
-### - Библиотека `Requests`: [MarkDown](/study_materials/Python/Moduls_and_libraries/Requests.md) , [JupyterNotebook](/study_materials/Python/Moduls_and_libraries/Requests.ipynb)
+### - Библиотека `Requests`: [MarkDown](/study_materials/Python/Moduls_and_libraries/materials/Requests.md) , [JupyterNotebook](/study_materials/Python/Moduls_and_libraries/materials/Requests.ipynb)
 
