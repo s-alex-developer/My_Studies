@@ -1,6 +1,6 @@
 *Последние изменения внесены: `26.03.2023`*
 
-[<<< Предыдущее меню.](/study_materials/Python/Python_study_materials.md)
+
 
 # Функция  `zip` (объединение)
 
@@ -87,9 +87,4 @@ print(l)
     (33, 44, 55)
     
 
-[<<< Предыдущее меню.](/study_materials/Python/Python_study_materials.md)
 
-
-```python
-
-```

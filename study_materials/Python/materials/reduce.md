@@ -1,6 +1,6 @@
 *Последние изменения внесены: `29.03.2023`*
 
-[<<< Предыдущее меню.](/study_materials/Python/Python_study_materials.md)
+
 
 # Функция reduce()
 
@@ -221,9 +221,3 @@ print(*result, sep=', ')
     34, 56, 74, 75
     
 
-[<<< Предыдущее меню.](/study_materials/Python/Python_study_materials.md)
-
-
-```python
-
-```
