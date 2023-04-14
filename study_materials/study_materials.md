@@ -2,11 +2,9 @@
 ***
 # Разделы для изучения:
 
-## В процессе наполнения:
-
-### [- Изучаем Python и библиотеки](/study_materials/Python/Python_study_materials.md)
-### [- Работа с разными форматами данных](/images/img/minions_at_works.jpg)
-### [- Базы данных на основе SQL](/study_materials/DataBase/DataBase_info.md)
+### [- Изучаем Python и библиотеки (в процессе наполнения)](/study_materials/Python/Python_study_materials.md)
+### [- Работа с разными форматами данных (в процессе наполнения)](/images/img/minions_at_works.jpg)
+### [- Базы данных на основе SQL (в процессе наполнения)](/study_materials/DataBase/DataBase_info.md)
 
 ## В ближайшее время:
 
