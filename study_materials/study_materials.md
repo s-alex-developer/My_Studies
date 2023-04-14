@@ -1,4 +1,4 @@
-[<<< Предыдущее меню.](https://github.com/s-alex-developer/My_Studies/blob/main/study_materials/study_materials.md)
+[<<< Предыдущее меню.](https://github.com/s-alex-developer/My_Studies)
 # Разделы для изучения:
 
 ## В процессе наполнения:
