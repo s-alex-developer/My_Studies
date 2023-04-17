@@ -1,6 +1,6 @@
 _Последние изменения внесены: 14.04.2023_
 
-[Видео лекции (перейти и скачать)](/study_materials/DataBase/PostgreSQL/Netology/video/creatdb_and_connect_psql.mp4)
+[Видео лекции (перейти и скачать)]()
 
 # Создание БД, подключение через psql
 

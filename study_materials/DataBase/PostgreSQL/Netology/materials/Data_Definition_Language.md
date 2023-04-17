@@ -1,6 +1,6 @@
 *Последние изменения внесены 16.04.2023*
 
-[Видео лекции (перейти и скачать)](/study_materials/DataBase/PostgreSQL/Netology/video/Data_Definition_Language.mp4)
+[Видео лекции (перейти и скачать)]()
 
 # SQL - Structured Query Language
 

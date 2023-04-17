@@ -12,5 +12,7 @@
 
 ### 5. DBeaver -  интерфейс администрирования базы данных ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/DBeaver.md) )
 
+### 5. Связи отношений и FOREING KEY (Внеешний ключ) ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/Relation_and_foreignkey.md) )
+
 ***
 [<<< Предыдущее меню.](..%2F..%2FDataBase_info.md)
