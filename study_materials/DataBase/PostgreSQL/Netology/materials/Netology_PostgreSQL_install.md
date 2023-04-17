@@ -4,7 +4,7 @@ _Последние изменения внесены: 13.04.2023_
 
 [Ссылка на PostgreSQL для установки.](https://www.enterprisedb.com/downloads/postgres-postgresql-downloads)
 
-[Видеоинструкция по установки на Windows (перейти и скачать)]()
+[Видеоинструкция по установки на Windows (перейти и скачать)](/images/img/minions_at_works.jpg)
 
 * В процессе установки возникла следующая ошибка:
 
