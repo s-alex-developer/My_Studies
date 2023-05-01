@@ -8,11 +8,38 @@
 
 ### 3. Создание БД, подключение через psql. ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/creatdb_and_connect_psql.md) )
 
-### 4. DDL (Язык описания данных) - CREATE, ALTER, DROP, CONSTRAINT (Ограничения) и типы данных. ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/Data_Definition_Language.md) )
+### 4. DDL (Язык описания данных). ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/Data_Definition_Language.md) )
 
-### 5. DBeaver -  интерфейс администрирования базы данных ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/DBeaver.md) )
+* **CREATE TABLE** - создание таблиц.
+* **ALTER TABLE** - изменение таблиц.
+* **DROP TABLE** - удаление таблиц.
+* **CONSTRAINT** - ограничения.
+* **ТИПЫ ДАННЫХ**. 
 
-### 5. Связи отношений и FOREING KEY (Внеешний ключ) ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/Relation_and_foreignkey.md) )
+### 5. DBeaver -  интерфейс администрирования базы данных. ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/DBeaver.md) )
 
-***
+### 6. Связи отношений и FOREING KEY (Внеешний ключ). ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/Relation_and_foreignkey.md) )
+
+### 7. DML (Язык манипуляции данными). ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/Data_Manipulation_Language.md) )
+
+* **INSERT INTO** - добавление данных.
+* **SELECT FROM** - выборка данных.
+* **Оператор AS** - псовдонимы имени столбцов.
+* **WHERE** - фильтрация данных.
+* **AND, OR, NOT** - логические операторы.
+* **UPDATE** - обновление данных.
+* **DELETE FROM** - удаление данных.
+
+### 8. Запросы. ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/requests_to_DataBase.md) )
+
+* **DISTINCT**  - выборка уникальных значений.
+* **ORDER BY** - сортировка.
+* **LIMIT и OFFSET** - получение диапазона строк.
+* **IN, BETWEEN, LIKE** - операторы фильтрации.
+* **АГРЕГАТНЫЕ ФУНКЦИИ** - MIN, MAX, AVG, SUM, COUNT.
+* **GROUP BY и HAVING** - группировка данных и фильтрация.
+* **Расширения GROUPING SETS, CUBE и ROLLUP для оператора GROUPE BY**
+* **Вложенные запросы** - подзапросы.
+
+
 [<<< Предыдущее меню.](..%2F..%2FDataBase_info.md)
