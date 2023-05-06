@@ -41,5 +41,15 @@
 * **Расширения GROUPING SETS, CUBE и ROLLUP для оператора GROUPE BY**
 * **Вложенные запросы** - подзапросы.
 
+### 9. Соединение таблиц. ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/Joins.md) )
+
+* **Неявное соединение таблиц.**
+* **INNER JOIN**
+* **OUTER JOIN** - LEFT, RIGHT, FULL
+* **CROSS JOIN**
+* **Группировка в соединениях** - GROUP BY.
+* **UNION** - объединение множеств.
+* **EXCEPT**  - разность множеств.
+* **INTERSECT** - пересечение множеств.
 
 [<<< Предыдущее меню.](..%2F..%2FDataBase_info.md)
