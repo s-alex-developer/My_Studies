@@ -52,4 +52,12 @@
 * **EXCEPT**  - разность множеств.
 * **INTERSECT** - пересечение множеств.
 
+### 10. Работа с PostgreSQL из Python ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/_PostgreSQL_and_Python.md) )
+
+* **Работа с БД из python с помощью драйвера psycopg2.**
+* **Функции .connect() и .close()**
+* **.cursor()** - выполнение SQL-запросов.
+* **Tранзакции, commit и rollback**
+* **Создание таблиц и CRUD операции.**
+
 [<<< Предыдущее меню.](..%2F..%2FDataBase_info.md)
