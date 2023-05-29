@@ -18,4 +18,5 @@
 ### [7. Глоссарий разработчика](/images/img/minions_at_works.jpg)
 ***
 ### [8. Ссылки на полезные ресурсы](/useful_resources_on_web/useful_resources_on_web.md)
+
 ![](/images/img/MainREADME.jpeg)
