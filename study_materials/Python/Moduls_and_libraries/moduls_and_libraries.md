@@ -5,6 +5,7 @@
 
 ### - Модуль `collections`: ( [MarkDown](/study_materials/Python/Moduls_and_libraries/materials/collections.md) , [JupyterNotebook](/study_materials/Python/Moduls_and_libraries/materials/collections.ipynb) )
 
+### - Модуль `re`: ( [MarkDown](/study_materials/Python/Moduls_and_libraries/materials/modul_re.md) )
 
 ## Внешние (требующие установки):
 
