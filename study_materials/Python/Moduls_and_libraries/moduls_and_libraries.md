@@ -12,6 +12,6 @@
 
 ### - Драйвер `psycopg2` ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/_PostgreSQL_and_Python.md) )
 
-### - Библиотека `SQLAlchemy`: ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/ORM_SQLAlchemy%20.md) )
+### - Библиотека `SQLAlchemy`: ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/ORM_SQLAlchemy.md) )
 ***
 [<<< Предыдущее меню.](..%2FPython_study_materials.md)

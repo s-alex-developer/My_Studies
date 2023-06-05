@@ -60,7 +60,7 @@
 * **Tранзакции, commit и rollback**
 * **Создание таблиц и CRUD операции.**
 
-### 11. SQLAlchemy и Абстракции ORM ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/ORM_SQLAlchemy%20.md) )
+### 11. SQLAlchemy и Абстракции ORM ( [MarkDown](/study_materials/DataBase/PostgreSQL/Netology/materials/ORM_SQLAlchemy.md) )
 
 * **Концепт ORM (Object-Relational Mapping).**
 * **Абстракция Сессия**
