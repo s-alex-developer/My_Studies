@@ -5,16 +5,22 @@
 
 * **Django** является очень популярным проектом и используется многими
 крупными компаниями.
-
-## 1. Почему DJANGO?
-    1. Грамотно спроектированная архитектура
-    2. Прозрачная работа с базой данных
-    3. Серьезное отношение к безопасности
-    4. Огромное количество библиотек и написанного кода
-    5. Подробная документация (на английском)
+## 1. Почему DJANGO? 
+<details>
+    <summary>смотреть</summary> 
+    
+        1. Грамотно спроектированная архитектура
+        2. Прозрачная работа с базой данных
+        3. Серьезное отношение к безопасности
+        4. Огромное количество библиотек и написанного кода
+        5. Подробная документация (на английском) 
+        
+</details>
 
 ## 2. Установка:
-
+<details>
+<summary>смотреть</summary>
+    
 * Для установки Django, выполните команду в консоли:
 
         pip install django
@@ -22,8 +28,13 @@
 * Чтобы убедиться, что все установилось корректно:
 
       python -m django --version
+  
+</details>
 
 ## 3. Что такое проект и приложение?
+
+<details>
+<summary>смотреть</summary>
 
 Под **проектом** можно понимать полноценный сайт. 
 
@@ -37,9 +48,14 @@
 * **Приложени**е — это изолированная часть функциональности. 
 * Приложения могут переиспользоваться в различных проектах. 
 * Ближайшая аналогия — модули в Python.
+  
+</details>
 
 ## 4. Создание проекта:
 
+<details>
+<summary>смотреть</summary>
+    
 * **Необходимо выполнить команду:** 
 
         django-admin startproject dj_study .
@@ -58,8 +74,13 @@
         │    └── wsgi.py (файл для подключеня веб-сервера)
         └── manage.py  (Управляющий файл Django для запуска всех сервисных команд)
     ```
+</details>
+
 ## 5. Создание приложения
 
+<details>
+<summary>смотреть</summary>
+    
 * **Приложение** в **Django** — это своеобразный модуль с некоторой функциональностью. 
 * Например, приложение для работы с email, с пользователями и т.д.
 
@@ -84,23 +105,28 @@
         ├── tests.py   (тесты приложения)
         └── views.py   (контроллеры - классы и функции обработки входящих запросов)
 
-После создания приложения информацию о нем необходимо внести в модуль `dj_study\settings.py`:
+* После создания приложения информацию о нем необходимо внести в модуль `dj_study\settings.py`:
 
-```python
-INSTALLED_APPS = [
-    'django.contrib.admin',
-    'django.contrib.auth',
-    'django.contrib.contenttypes',
-    'django.contrib.sessions',
-    'django.contrib.messages',
-    'django.contrib.staticfiles',
+    ```python
+    INSTALLED_APPS = [
+        'django.contrib.admin',
+        'django.contrib.auth',
+        'django.contrib.contenttypes',
+        'django.contrib.sessions',
+        'django.contrib.messages',
+        'django.contrib.staticfiles',
     
-    'main_app'
-]
-```
+        'main_app'
+    ]
+    ```
 * Если не выполнить данное действие приложение будет невидимо для сервисных команд, например `makemigrations`.
+  
+</details>
 
 ## 6. Клиент и сервер.
+
+<details>
+<summary>смотреть</summary>
 
 **Клиент:**
     
@@ -125,9 +151,9 @@ INSTALLED_APPS = [
 
 **Django**-проект выступает в роли сервера. 
 
-Для того чтобы запустить проект, выполните команды:
+* Для того чтобы запустить проект, выполните команды:
     
-    python manage.py migrate
+        python manage.py migrate
 
 *  Создает базу данных, если мы планируем использовать встроенные возможности **Django** и использовать БД SQL-Lite, не создавая внешнюю БД.
 
@@ -139,16 +165,17 @@ INSTALLED_APPS = [
 * Запускает проект, остановить сервер можно сочетанием клавиш `CTRL+C`
 * После выполнения команды мы увидим служебную информацию и адрес по которому мы можем открыть наш проект в браузере:
 
-```
-Performing system checks...
+    ```
+    Performing system checks...
 
-System check identified no issues (0 silenced).
-July 13, 2023 - 16:23:48
-Django version 4.2.3, using settings 'dj_study.settings'
-Starting development server at http://127.0.0.1:8000/
-Quit the server with CTRL-BREAK.
+    System check identified no issues (0 silenced).
+    July 13, 2023 - 16:23:48
+    Django version 4.2.3, using settings 'dj_study.settings'
+    Starting development server at http://127.0.0.1:8000/
+    Quit the server with CTRL-BREAK.
 
-```
+    ```
+</details>
 
 ## 7. Подключение сторонней БД к проекту на Django (на примере PostgreSQL)
 
