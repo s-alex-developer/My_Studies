@@ -7,7 +7,7 @@
 крупными компаниями.
 ## 1. Почему DJANGO? 
 <details>
-    <summary>смотреть</summary> 
+    <summary></summary> 
     
         1. Грамотно спроектированная архитектура
         2. Прозрачная работа с базой данных
@@ -19,7 +19,7 @@
 
 ## 2. Установка:
 <details>
-<summary>смотреть</summary>
+<summary></summary>
     
 * Для установки Django, выполните команду в консоли:
 
@@ -34,7 +34,7 @@
 ## 3. Что такое проект и приложение?
 
 <details>
-<summary>смотреть</summary>
+<summary></summary>
 
 Под **проектом** можно понимать полноценный сайт. 
 
@@ -54,7 +54,7 @@
 ## 4. Создание проекта:
 
 <details>
-<summary>смотреть</summary>
+<summary></summary>
     
 * **Необходимо выполнить команду:** 
 
@@ -79,7 +79,7 @@
 ## 5. Создание приложения
 
 <details>
-<summary>смотреть</summary>
+<summary></summary>
     
 * **Приложение** в **Django** — это своеобразный модуль с некоторой функциональностью. 
 * Например, приложение для работы с email, с пользователями и т.д.
@@ -126,7 +126,7 @@
 ## 6. Клиент и сервер.
 
 <details>
-<summary>смотреть</summary>
+<summary></summary>
 
 **Клиент:**
     
@@ -179,6 +179,9 @@
 
 ## 7. Подключение сторонней БД к проекту на Django (на примере PostgreSQL)
 
+<details>
+<summary></summary>
+
 Создаем базу данных выполнив команду:
 
     createdb -U postgres dj_database
@@ -224,16 +227,18 @@
 
       python manage.py migrate
 
-* Ознакомимся с результатом:
+* Ознакомимся с результатом: cозданные миграции Django (по умолчанию):
 
-<details>
-    <summary> Созданные миграции Django (по умолчанию) </summary>
+
       
->>> Вставить фото >>> сюда ![](1)
+    ![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Django_Netology/Django_lesson_1/img/1.default_migrates.png)
 
 </details>
 
 ## 8. MVC и Django
+
+<details>
+<summary></summary>
 
 * **Django** генерирует структуру проекта самостоятельно. Благодаря этому
 даже новые разработчики знают, где и что можно искать.
@@ -247,15 +252,20 @@
 
   `model-view-controller` (модель-представление-контроллер).
 
-**DJANGO** и разделение ответственности:
+* **DJANGO** и разделение ответственности:
 
-* управление логикой при ответе -> `view`
-* как будет выглядеть страница -> `template`
-* состояние приложения -> `model`
+    * управление логикой при ответе -> `view`
+    * как будет выглядеть страница -> `template`
+    * состояние приложения -> `model`
 
 > Правило: не мешать всё в одну кучу !!!
 
+</details>
+
 ## 9. В качестве примера добавим сообщение "Hellow World!" на главную страницу проекта.
+
+<details>
+<summary></summary>
 
 Создадим функцию `index_page`в модуле `\main_app\views.py`:
 
@@ -283,9 +293,14 @@ urlpatterns = [
 ```
 Запустим сервер, перейдем на главную страницу проекта и увидим результат:
 
->>>Вставить фото >>> сюда ![Фото](2)
+![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Django_Netology/Django_lesson_1/img/2.index_page.png)
+
+</details>
 
 ## 10. Добавление и выгрузка данных из БД на страницу проекта:
+
+<details>
+<summary></summary>
 
 Добавим модель создания таблицы БД для приложения `main_app` в модуль  `\main_app\models.py`:
 
@@ -306,15 +321,15 @@ INSTALLED_APPS = [
 
 Получим результат:
 
->>>Вставить фото >>> сюда ![Фото](3)
+![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Django_Netology/Django_lesson_1/img/3.makemigrations.png)
 
->>>Вставить фото >>> сюда ![Фото](4)
+![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Django_Netology/Django_lesson_1/img/4.makemigrations_commit.png)
 
 * Каждая запись миграции это своеобразный `"git commit"`, который позволяет нам детально фиксировать каждое действие и при необходимости откатить изменения.
 
 Далее выполнит команду `python manage.py migrate` чтобы добавить все миграции в БД и ознакомимся с результатом:
 
->>>Вставить фото >>> сюда ![Фото](5)
+ ![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Django_Netology/Django_lesson_1/img/5.makemigrations_db.png)
 
 **Добавим данные в созданную таблицу:**
 
@@ -332,7 +347,7 @@ INSTALLED_APPS = [
      * `product = Product(name='Арбуз', description='Зеленый снаружи, спелый и вкусный внутри.', price=50)`
      * ` product.save()`
      * Запись должна появится в таблице БД `main_app_product`:
-     >>>Вставить фото >>> сюда ![Фото](6)
+     ![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Django_Netology/Django_lesson_1/img/6.main_app_products.png)
 
 3. При помощи встроенных методов для работы с моделями в Django:
 
@@ -345,7 +360,7 @@ INSTALLED_APPS = [
       
       `<Products: Модель: Дыня, описание: Желтая снаружи, белая и сладкая внутри., стоимость: 30 руб.>`
     * Запись должна появится в таблице БД `main_app_product`:
-     >>>Вставить фото >>> сюда ![Фото](7)
+     ![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Django_Netology/Django_lesson_1/img/7.main_app_products_2.png)
 
 4. При помощи встроенной административной панели **Django**:
    * Взаимодействие происходит через модуль `admin.py`, который есть в каждом приложении.
@@ -364,10 +379,10 @@ INSTALLED_APPS = [
      * Учетная запись администратора создана.
      * Запускаем сервер и переходим на страницу `http://127.0.0.1:8000/admin`
      * Вводим логи и пароль созданной учетной записи **Администратора**
-        >>>Вставить фото >>> сюда ![Фото](8)
+        ![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Django_Netology/Django_lesson_1/img/8.admin_login.png)
      * Переходим в раздел с БД и добавляем новую запись "Апельсин" в таблицу "Products"
-        >>>Вставить фото >>> сюда ![Фото](9)
-        >>>Вставить фото >>> сюда ![Фото](10)
+        ![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Django_Netology/Django_lesson_1/img/9.admin_db.png)
+        ![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Django_Netology/Django_lesson_1/img/10.add_row_to_db.png)
      
 
    * Открываем модуль `\main_app\admin.py` и регистрируем модель `Product`:
@@ -405,7 +420,7 @@ urlpatterns = [
 ```
 Запускаем сервер, переходим на страницу `http://127.0.0.1:8000/products/` и смотрим результат:
 
->>>Вставить фото >>> сюда ![Фото](11)
+![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Django_Netology/Django_lesson_1/img/11.products.png)
 
 * Произведена последовательная выгрузка данных из БД, данные слиты воедино, без какого-либо форматирования.
 
@@ -415,7 +430,7 @@ urlpatterns = [
 
 Создадим папку `\main_app\templates\` и файл шаблона `list.html`:
 
->>>Вставить фото >>> сюда ![Фото](12)
+![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Django_Netology/Django_lesson_1/img/12.%20list_html.png)
 
 * Файл создается с базовой разметкой.
 
@@ -462,7 +477,9 @@ urlpatterns = [
   
 * Запустим сервер, перейдем на страницу `http://127.0.0.1:8000/products/` и посмотрим результат:
 
-    >>>Вставить фото >>> сюда ![Фото](13)
+    ![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Django_Netology/Django_lesson_1/img/13.list_html_results.png)
+
+</details>
 
 ## 11. Работа с урлами. Роутинг в Django.
 
