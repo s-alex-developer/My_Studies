@@ -483,6 +483,9 @@ urlpatterns = [
 
 ## 11. Работа с урлами. Роутинг в Django.
 
+<details>
+<summary></summary>
+
 **View и гипертекст:**
 * Пользователь взаимодействует с системой через гипертекст: клики, скролы, нажатия клавиш. 
 * Сервер реагирует на эти взаимодействия и с помощью `view` подготавливает новое состояние — ответ.
@@ -502,7 +505,12 @@ path('', home_view, name='home'),
 * `name` (третий параметр) — позволяет получать конкретный урл по имени.
 Это позволяет приложению не ломаться, если урлы будут меняться и делает код более понятным
 
+</details>
+
 ## 12. `Revers`
+
+<details>
+<summary></summary>
 
 **Revers** - позволяет получить путь по имени.
 
@@ -537,7 +545,12 @@ urlpatterns = [
 * `reverse('product_details', kwargs={'product_id': 2})`  (*данный пример будет использован ниже*)
   * _Результат:_ `'/products/2/'`
 
+</details>
+
 ## 13. Вывод информации о продукте на отдельную страницу.
+
+<details>
+<summary></summary>
 
 Создадим новый контроллер в модуле `\main_app\views.py`:
 
@@ -587,11 +600,16 @@ urlpatterns = [
 ```
 Запускаем сервер и получаем результат:
 
->>>Вставить фото >>> сюда ![Фото](14)
+![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Django_Netology/Django_lesson_1/img/14.get_object_or_404.png)
 
 * На отдельную страницу мы произвели выгрузку товара из таблицы БД с идентификатором `id=1`.
 
+</details>
+
 ## 14. Перехода между страницами по ссылкам и кнопкам.
+
+<details>
+<summary></summary>
  
 *Внесем изменения в наши шаблоны:**
 
@@ -636,9 +654,14 @@ urlpatterns = [
 
 Получим результат: 
 
->>>Вставить фото >>> сюда ![Фото](15)
+![Фото](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Django_Netology/Django_lesson_1/img/15.href_button.png)
+
+</details>
 
 ## 15. Как дебажить Django-проект.
+
+<details>
+<summary></summary>
 
 ### 1. `print` - функции
 * **Django-проект** — это Python приложение. 
@@ -660,11 +683,19 @@ urlpatterns = [
 * Удобнее всего использовать в **IDE Pycharm** или **VS Code**.
   * Необходимо выполнить настройку `Run\Debug configuration`.
   * Переходим в настройки:
-  >>>  Вставить фото >>> сюда ![Фото](16)
+    
+  ![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Django_Netology/Django_lesson_1/img/16debug_0.bmp)
+  
   * Заполняем параметры: `name`, `Script path`, `Parameters`, `Python interpreter`
-  >>>Вставить фото >>> сюда ![Фото](17)
+    
+  ![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Django_Netology/Django_lesson_1/img/17.debug_1.png)
+  
   * Далее используя конфигурацию `manage.py` мы можем запускать наш сервер и **debug** режим.
-  >>>Вставить фото >>> сюда ![Фото](18)
+    
+  ![](https://github.com/s-alex-developer/github.com_supporting-files/blob/main/Django_Netology/Django_lesson_1/img/18.debug_bp.png)
+  
   * Сообщения об ошибках **Django** на веб страницах проекта при попытке их загрузки подскажут нам в каких модулях 
   и строках кода возникли ошибки.
   * Расстановка breakpoints, в **debug** режиме мы сможем отслеживать каждый шаг выполнения кода и находить ошибки.
+
+</details>
