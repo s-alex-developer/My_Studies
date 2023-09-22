@@ -30,9 +30,9 @@
 
 ## 4. Бибилиотеки и модули для Python.
 
-### `Список библиотек` [Нажать >>>](/study_materials/Python/Moduls_and_libraries/moduls_and_libraries.md)
+### [`Список библиотек --->>>` ](/study_materials/Python/Moduls_and_libraries/moduls_and_libraries.md)
 
 ## 5. Фреймворки Python.
-### - `Django` - [Нажать >>>](/study_materials/Python/Django_Netology/django_materials.md)
+### 1. [`Django` ](/study_materials/Python/Django_Netology/django_materials.md)
 
 [<<< Предыдущее меню.](..%2Fstudy_materials.md)
